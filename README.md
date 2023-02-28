@@ -1,1 +1,1 @@
-Website for Online Learning App Using HTML, CSS & Javascript
+# An Open source project on a website using HTML,CSS and JavaScript.
